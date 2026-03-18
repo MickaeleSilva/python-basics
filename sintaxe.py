@@ -34,6 +34,11 @@ soma = 20 + 20
 multiplicacao = 2 * 20
 divisao = 20 / 10
 
+# =========================
+# input
+# =========================
+nome = input("Digite um nome: ")
+print(nome)
 
 # =========================
 # Funções
